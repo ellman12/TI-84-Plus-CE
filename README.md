@@ -7,3 +7,5 @@ Here's how to actually get the files on the calculator (older models before the 
 https://supertutortv.com/blog-resources/ti-calculator-how-to-upload-programs
 
 https://www.youtube.com/watch?v=TfVdPfxrmpw
+
+This website is like the Texas Instruments Bible: http://tibasicdev.wikidot.com/
